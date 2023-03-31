@@ -1,0 +1,1 @@
+-novid +fps_max 999 -high +cl_forcepreload 1 -tickrate 128 +exec autoexec.cfg
